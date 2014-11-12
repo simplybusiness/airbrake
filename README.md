@@ -1,5 +1,7 @@
-Airbrake
-========
+DEPRECATED::Airbrake
+====================
+
+YOU SHOULD NOW BE USING THE MAIN AIRBRAKE GEM AS THAT CONTAINS ALL THE CHANGES CONTAINED IN THIS FORK
 
 [![Circle CI](https://circleci.com/gh/airbrake/airbrake/tree/master.png?circle_token=66cb9cfc6d20f550a2dbde522f5f0f9f81bd653b)](https://circleci.com/gh/airbrake/airbrake)
 [![Code Climate](https://codeclimate.com/github/airbrake/airbrake.png)](https://codeclimate.com/github/airbrake/airbrake)
